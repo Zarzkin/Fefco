@@ -1,13 +1,15 @@
 {
-  "main.css": "/Fefco/static/css/main.ca3b9c55.chunk.css",
-  "main.js": "/Fefco/static/js/main.d89cd402.chunk.js",
-  "main.js.map": "/Fefco/static/js/main.d89cd402.chunk.js.map",
+  "main.css": "/Fefco/static/css/main.aac949ff.chunk.css",
+  "main.js": "/Fefco/static/js/main.20475969.chunk.js",
+  "main.js.map": "/Fefco/static/js/main.20475969.chunk.js.map",
   "runtime~main.js": "/Fefco/static/js/runtime~main.b5985acd.js",
   "runtime~main.js.map": "/Fefco/static/js/runtime~main.b5985acd.js.map",
-  "static/js/2.6ad9597c.chunk.js": "/Fefco/static/js/2.6ad9597c.chunk.js",
-  "static/js/2.6ad9597c.chunk.js.map": "/Fefco/static/js/2.6ad9597c.chunk.js.map",
+  "static/css/2.04203852.chunk.css": "/Fefco/static/css/2.04203852.chunk.css",
+  "static/js/2.94d67df9.chunk.js": "/Fefco/static/js/2.94d67df9.chunk.js",
+  "static/js/2.94d67df9.chunk.js.map": "/Fefco/static/js/2.94d67df9.chunk.js.map",
   "index.html": "/Fefco/index.html",
-  "precache-manifest.8b3ed49e6dbc1642e6dd586939d30102.js": "/Fefco/precache-manifest.8b3ed49e6dbc1642e6dd586939d30102.js",
+  "precache-manifest.d941927dfffb8294aa075f9ef16e5597.js": "/Fefco/precache-manifest.d941927dfffb8294aa075f9ef16e5597.js",
   "service-worker.js": "/Fefco/service-worker.js",
-  "static/css/main.ca3b9c55.chunk.css.map": "/Fefco/static/css/main.ca3b9c55.chunk.css.map"
+  "static/css/2.04203852.chunk.css.map": "/Fefco/static/css/2.04203852.chunk.css.map",
+  "static/css/main.aac949ff.chunk.css.map": "/Fefco/static/css/main.aac949ff.chunk.css.map"
 }
