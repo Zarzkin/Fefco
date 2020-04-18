@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/Fefco/static/js/2.94d67df9.chunk.js"
   },
   {
-    "revision": "d987b100158952a98def5aee16cace67",
+    "revision": "f7e24decbef226a6dfe9bdb991b75034",
     "url": "/Fefco/index.html"
   }
 ];
