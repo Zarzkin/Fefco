@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "508f4b158b033fb8d0c0",
-    "url": "/Fefco/static/css/main.238d0ff2.chunk.css"
+    "revision": "b8e1ea0e0306825183ab",
+    "url": "/Fefco/static/css/main.ca3b9c55.chunk.css"
   },
   {
-    "revision": "508f4b158b033fb8d0c0",
-    "url": "/Fefco/static/js/main.7fc45b34.chunk.js"
+    "revision": "b8e1ea0e0306825183ab",
+    "url": "/Fefco/static/js/main.d89cd402.chunk.js"
   },
   {
     "revision": "66a20d7e53aa51c393b2",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/Fefco/static/js/2.6ad9597c.chunk.js"
   },
   {
-    "revision": "f6f1bb8aa97e21a3146c433e2632d1e2",
+    "revision": "79f29c0ce0774982d77b6ff402141c50",
     "url": "/Fefco/index.html"
   }
 ];
